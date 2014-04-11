@@ -14,10 +14,10 @@
 
 
 /* Y == 0 OR Y > 4 OR (XY > 10 AND XY < 15); */
-"%d hours ago" = "%d години тому";
+"%d hours ago" = "%d годин тому";
 
 /* Y > 1 AND Y < 5 AND (XY < 10 OR XY > 20); */
-"%d _hours ago" = "%d годин тому";
+"%d _hours ago" = "%d години тому";
 
 /* Y == 1 AND XY != 11; */
 "%d __hours ago" = "%d годину тому";
@@ -37,7 +37,7 @@
 "%d months ago" = "%d місяців тому";
 
 /* Y > 1 AND Y < 5 AND (XY < 10 OR XY > 20); */
-"%d _months ago" = "%d місяці тому";
+"%d _months ago" = "%d місяця тому";
 
 /* Y == 1 AND XY != 11; */
 "%d __months ago" = "%d місяць тому";
@@ -54,10 +54,10 @@
 
 
 /* Y == 0 OR Y > 4 OR (XY > 10 AND XY < 15); */
-"%d weeks ago" = "%d тижнів тому";
+"%d weeks ago" = "%d тижднів тому";
 
 /* Y > 1 AND Y < 5 AND (XY < 10 OR XY > 20); */
-"%d _weeks ago" = "%d тижні тому";
+"%d _weeks ago" = "%d тиждні тому";
 
 /* Y == 1 AND XY != 11; */
 "%d __weeks ago" = "%d тиждень тому";
@@ -80,13 +80,13 @@
 "An hour ago" = "Годину тому";
 
 /* No comment provided by engineer. */
-"Just now" = "Тільки що";
+"Just now" = "Щойно";
 
 /* No comment provided by engineer. */
 "Last month" = "Місяць тому";
 
 /* No comment provided by engineer. */
-"Last week" = "Неділю тому";
+"Last week" = "Тиждень тому";
 
 /* No comment provided by engineer. */
 "Last year" = "Рік тому";
@@ -101,7 +101,7 @@
 "1 month ago" = "1 місяць тому";
 
 /* No comment provided by engineer. */
-"1 week ago" = "1 неділю тому";
+"1 week ago" = "1 тиждень тому";
 
 /* No comment provided by engineer. */
 "1 day ago" = "1 день тому";
@@ -110,13 +110,13 @@
 "This morning" = "Цього ранку";
 
 /* No comment provided by engineer. */
-"This afternoon" = "Цього дня";
+"This afternoon" = "Сьогодні вдень";
 
 /* No comment provided by engineer. */
 "Today" = "Сьогодні";
 
 /* No comment provided by engineer. */
-"This week" = "Цього тижня";
+"This week" = "Цього тиждня";
 
 /* No comment provided by engineer. */
 "This month" = "Цього місяця";

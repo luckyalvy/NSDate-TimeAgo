@@ -29,9 +29,17 @@ This functionality has variously been referred to as a "time ago", "time since",
 - ko (Korean)
 - bg (Bulgarian)
 - he (Hebrew)
+- ar (Arabic)
+- gre (Greek)
+- pl (Polish)
+- sv (Swedish)
+- th (Thai)
 - uk (Ukrainian)
+- is (Icelandic)
 
 If you know a language not listed here, please consider submitting a translation. [Localization codes by language](http://stackoverflow.com/questions/3040677/locale-codes-for-iphone-lproj-folders).
+
+This project is user driven (by people like you). Pull requests close faster than issues (merged or rejected).
 
 ## Use
 
@@ -73,8 +81,6 @@ http://wikipedia.org/wiki/ISC_license
 
 Originally based on code Christopher Pickslay posted to Forrst. Used with permission. http://twitter.com/cpickslay 
 
-Flavio Caetano fixed `pt` Portuguese strings. http://flaviocaetano.com
-
 Ramon Torres began support for internationalization/localization. Added `es` strings. http://rtorres.me/
 
 Dennis Zhuang added `zh_Hans` Chinese Simplified strings. http://fnil.net/
@@ -115,7 +121,15 @@ Osman Saral added `tr` Turkish strings. https://github.com/osrl
 
 analogstyle added `ko` Korean strings. http://almacreative.net/
 
+Flavio Caetano fixed `pt` Portuguese strings. http://flaviocaetano.com
+
 kolarski added `bg` Bulgarian strings. http://github.com/kolarski
 
 Vladimir Kofman added `he` Hebrew strings. https://github.com/vladimirkofman
+
+Viraf Sarkari added `ar` Arabic, `gre` Greek, `pl` Polish, `sv` Swedish, and `th` Thai strings. https://github.com/viraf
+
+Vasyl Skrypii added `uk` Ukranian strings. https://github.com/medlay 
+
+Maggi Trymbill added `is` Icelandic strings. https://github.com/grundvollur
 
